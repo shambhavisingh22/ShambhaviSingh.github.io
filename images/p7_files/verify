@@ -1,0 +1,7 @@
+jsonp7812({
+  "error" : "access_denied",
+  "site_cookie_domain" : ".scientificamerican.com",
+  "email_confirmation_required" : null,
+  "extend_expired_access_enabled" : false,
+  "authorized_by_sso" : false
+})
